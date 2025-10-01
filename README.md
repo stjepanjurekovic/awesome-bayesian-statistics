@@ -24,6 +24,7 @@ It is a collaborative work, so feel free to pull and add content to this. This w
 17. [An Introduction to Bayesian Inference, Methods and Computation, Nick Heard (2021)](https://link.springer.com/book/10.1007/978-3-030-82808-0)
 18. [Bayesian Inference for Stochastic Processes, Lyle D. Broemeling (2017)](https://www.routledge.com/Bayesian-Inference-for-Stochastic-Processes/Broemeling/p/book/9780367572433)
 19. [Bayesian Statistics for Experimental Scientists: A General Introduction Using Distribution-Free Methods, Richard A. Chechile (2020)](https://mitpress.mit.edu/books/bayesian-statistics-experimental-scientists)
+20. [Grokking Bayes, Quan Nguyen (2025)](https://www.manning.com/books/grokking-bayes)
 
 ## Courses
 1. [Bayesian Statistics: From Concept to Data Analysis, University of California Santa Cruz](https://www.coursera.org/learn/bayesian-statistics)
